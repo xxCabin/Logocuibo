@@ -1,6 +1,8 @@
 # Logocuibo
 A basic script to create custom bootlogo
 
+brew install libpng
+
 img4tool by Tihmstar
 
 ibootim by realnp
